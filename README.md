@@ -4,6 +4,8 @@
 
 [![wercker status](https://app.wercker.com/status/3aac3791106be178e49a1b5fd2ca05a7/s "wercker status")](https://app.wercker.com/project/bykey/3aac3791106be178e49a1b5fd2ca05a7)
 
+[![GoDoc](https://godoc.org/github.com/vinayak/string?status.svg)](https://godoc.org/github.com/vinayak/string)
+
 testing travis 
 
 good 
