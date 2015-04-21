@@ -1,5 +1,7 @@
+// Package string does the reverse of a string
 package string
 
+//Reverse takes a string argument and reverses the string
 func Reverse(s string) string {
 	b:= []rune(s)
 	for i:=0; i<len(b)/2; i ++{
